@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SQLAndroidSettings">
+    <option name="databases">
+      <map>
+        <entry key="mushroomBase_F:\AndroidProjects\MushroomPickerCalendar\AndroidSqlEditorDatabases\">
+          <value>
+            <list>
+              <option value="192.168.194.101:5555" />
+              <option value="/databases/run-as: unknown package: ls" />
+              <option value="mushroomBase" />
+              <option value="mushroomBase" />
+              <option value="false" />
+              <option value="mushroompickercalendar" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="storageVersion" value="2" />
+  </component>
+</project>

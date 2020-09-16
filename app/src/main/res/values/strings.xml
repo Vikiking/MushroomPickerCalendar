@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mushroom picker calendar</string>
+    <string name="new_mushroom">New Mushroom</string>
+    <string name="enter_mushroom_name">Enter mushroom name</string>
+    <string name="edit_mushroom">Edit Mushroom</string>
+    <string name="save_mushroom">Save Mushroom</string>
+    <string name="delete_mushroom">Delete Mushroom</string>
+    <string name="months_harvest">Months of harvest</string>
+    <string name="forest_type">Forest type</string>
+    <string name="cooking_method">Cooking method</string>
+
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+    <string name="mixed">Mixed</string>
+    <string name="deciduous">Deciduous</string>
+    <string name="coniferous">Coniferous</string>
+
+    <string name="fry">Fry</string>
+    <string name="dry">Dry</string>
+    <string name="cook">Cook</string>
+    <string name="pickle">Pickle</string>
+
+
+</resources>
